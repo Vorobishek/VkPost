@@ -5,4 +5,9 @@ public class LikesInfo {
     private String likesImageUrl;
     private int likesCount;
 
+    // add from documentation
+
+    private boolean userLike;
+    private boolean canLike;
+    private boolean canPublish;
 }

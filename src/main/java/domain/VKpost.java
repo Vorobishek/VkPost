@@ -11,6 +11,16 @@ public class VKpost {
     private String postText;
     private String imageUrl;
     private String imageLogoUrl;
+
+ //objects
+    private ThreeDotsInfo threeDotsInfo;
+    private ViewsInfo viewsInfo;
+    private Geo geo;
+    private CommentsInfo commentsInfo;
+    private CopyRigth copyRigth;
+    private RepostsInfo repostsInfo;
+    private LikesInfo likesInfo;
+
 // add from documentation
     private int fromId;
     private int createdBy;
